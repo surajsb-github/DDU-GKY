@@ -1,2 +1,2 @@
-# DDU-GKY
+# Data Science 
 Data Science 
